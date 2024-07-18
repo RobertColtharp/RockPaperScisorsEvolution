@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6C5BB9-CB89-4DE6-B18B-794B8977D0DD}|RockPaperScisors.pyproj|C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\player.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE6C5BB9-CB89-4DE6-B18B-794B8977D0DD}|RockPaperScisors.pyproj|solutionrelative:player.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6C5BB9-CB89-4DE6-B18B-794B8977D0DD}|RockPaperScisors.pyproj|C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\game.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE6C5BB9-CB89-4DE6-B18B-794B8977D0DD}|RockPaperScisors.pyproj|solutionrelative:game.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6C5BB9-CB89-4DE6-B18B-794B8977D0DD}|RockPaperScisors.pyproj|C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\RockPaperScisors.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE6C5BB9-CB89-4DE6-B18B-794B8977D0DD}|RockPaperScisors.pyproj|solutionrelative:RockPaperScisors.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6C5BB9-CB89-4DE6-B18B-794B8977D0DD}|RockPaperScisors.pyproj|C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\menu.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE6C5BB9-CB89-4DE6-B18B-794B8977D0DD}|RockPaperScisors.pyproj|solutionrelative:menu.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 294,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.py",
+              "DocumentMoniker": "C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\game.py",
+              "RelativeDocumentMoniker": "game.py",
+              "ToolTip": "C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\game.py",
+              "RelativeToolTip": "game.py",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAEAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-14T23:42:29.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu.py",
+              "DocumentMoniker": "C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\menu.py",
+              "RelativeDocumentMoniker": "menu.py",
+              "ToolTip": "C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\menu.py",
+              "RelativeToolTip": "menu.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-15T16:09:42.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RockPaperScisors.py",
+              "DocumentMoniker": "C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\RockPaperScisors.py",
+              "RelativeDocumentMoniker": "RockPaperScisors.py",
+              "ToolTip": "C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\RockPaperScisors.py",
+              "RelativeToolTip": "RockPaperScisors.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-14T23:14:21.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "player.py",
+              "DocumentMoniker": "C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\player.py",
+              "RelativeDocumentMoniker": "player.py",
+              "ToolTip": "C:\\Users\\mrted\\Documents\\GitHub\\RPS\\RockPaperScisors\\player.py",
+              "RelativeToolTip": "player.py",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-14T23:30:08.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
